@@ -1,7 +1,9 @@
 # PPT内容扩展智能体 - 云计算系统期末大作业
 
-** 我们的演示视频：  百度网盘网盘分享的文件：28小组视频.mp4
-链接: https://pan.baidu.com/s/1SdBdo6OkPcHg38gTwu0Sww 提取码: rbcd
+## 我们的演示视频：  百度网盘网盘分享的文件：28小组视频.mp4
+  - 链接: https://pan.baidu.com/s/1SdBdo6OkPcHg38gTwu0Sww 提取码: rbcd
+  - 
+## 我们的组内评分采用小组成员得分一致的方式！
 
 ##  项目概述
 
